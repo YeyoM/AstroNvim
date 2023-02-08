@@ -158,4 +158,4 @@ local andromeda = {
   md = "#519aba",
 }
 
-return astronvim.user_plugin_opts("default_theme.colors", andromeda)
+return astronvim.user_plugin_opts("default_theme.colors", gruvbox)
