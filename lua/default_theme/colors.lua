@@ -76,6 +76,7 @@ local gruvbox = {
   woff2 = "#abb2bf",
   zip = "#f9d71c",
   md = "#519aba",
+  pkg = "#d39ede",
 }
 
 local andromeda = {
